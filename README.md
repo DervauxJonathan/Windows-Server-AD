@@ -96,3 +96,9 @@ You can follow [this](https://openclassrooms.com/en/courses/7710301-manage-windo
 2. Verify access based on assigned user permissions and GPOs, demonstrating differences between Alice and Bob's access levels.
 3. Access and analyze Sysmon logs using your chosen solution.
 4. Prepare a client-facing report highlighting captured events, potential security concerns related to both Alice and Bob, and Sysmon's value within the Active Directory domain.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
