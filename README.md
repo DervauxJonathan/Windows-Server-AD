@@ -9,27 +9,6 @@
 
 This challenge guides you through deploying a secure Windows Server 2022 environment with Active Directory, essential server roles (IIS, DNS, DHCP), user management, Sysmon monitoring, and demonstration of its functionality to a client. Gain essential configuration skills, security awareness, and experience with Active Directory while incorporating user accounts like Alice and Bob for realistic role-based access.
 
-## Learning Objectives:
-
-* Install and configure Windows Server 2022.
-* Create and manage user accounts within Active Directory.
-* Set up and configure Active Directory for centralized user management.
-* Apply granular permissions for users like Alice and Bob based on security principles.
-* Install and configure essential server roles (IIS, DNS, DHCP).
-* Implement Sysmon for system activity monitoring.
-* Analyze Sysmon data and present its security value to the client.
-
-You can follow [this](https://openclassrooms.com/en/courses/7710301-manage-windows-server) tutorial to discover windows server.
-
-## Environment:
-
-**Resources:**
-
-* Virtualization software: Microsoft Hyper-V, VMware Workstation, VirtualBox, QEMU.
-* **Required:** <br>
-[Windows Server 2022 evaluation](https://www.microsoft.com/evalcenter/evaluate-windows-server-2022)
-* [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) monitoring solution
-
 ## Steps:
 
 **1. System Preparation:**
